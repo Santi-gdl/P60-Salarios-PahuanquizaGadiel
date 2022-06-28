@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/img/el-tiempo-es-dinero.png</file>
+        <file>recursos/img/informacion.png</file>
+        <file>recursos/img/calculadora.png</file>
+    </qresource>
+</RCC>
